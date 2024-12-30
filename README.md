@@ -47,7 +47,3 @@
 ###
 
 <br clear="both">
-
-![Snake animation](https://raw.githubusercontent.com/brkgncr/brkgncr/output/snake.svg)
-
-###
