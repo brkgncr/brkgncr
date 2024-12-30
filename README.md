@@ -50,4 +50,6 @@
 
 ###
 
-![Visitor Count](https://profile-counter.glitch.me/brkgncr/count.svg)
+<p align="center">
+  <img src="https://profile-counter.glitch.me/brkgncr/count.svg" alt="Visitor Count" width="200" style="border: 2px solid #000; padding: 10px;"/>
+</p>
