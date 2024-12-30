@@ -47,3 +47,7 @@
 ###
 
 <br clear="both">
+
+###
+
+![Visitor Count](https://profile-counter.glitch.me/brkgncr/count.svg)
