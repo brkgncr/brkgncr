@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Burak and I'm a Jr. Andorid Developer from Turkey</h2>
+<h2 align="left">Hi 👋! My name is Burak and I'm an Android Developer.</h2>
 
 ###
 
